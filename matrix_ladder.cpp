@@ -21,6 +21,8 @@ int write_ladder()
 
     free (begin_ladder);
 
+    printf ("\n\n");
+
     return 0;
 }
 
